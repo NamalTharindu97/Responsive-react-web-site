@@ -1,4 +1,4 @@
 container {
-  height: 100vh;
-  background-color: red;
+  display: flex;
+  justify-content: space-between;
 }
